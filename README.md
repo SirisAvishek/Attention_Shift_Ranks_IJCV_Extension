@@ -7,7 +7,7 @@ Avishek Siris, Jianbo Jiao, Gary K.L. Tam, Xianghua Xie, Rynson W.H. Lau
 
 ##
 <p align="center">
-<img src="[https://github.com/SirisAvishek/Inferring-Attention-Shift-Ranks/blob/master/images/saliency_rank_data_compare.png](https://github.com/SirisAvishek/Attention_Shift_Ranks_IJCV_Extension/blob/main/images/fig_1.png)" width="800"/>
+<img src="https://github.com/SirisAvishek/Attention_Shift_Ranks_IJCV_Extension/blob/main/images/fig_1.png" width="800"/>
 </p>
 
 
